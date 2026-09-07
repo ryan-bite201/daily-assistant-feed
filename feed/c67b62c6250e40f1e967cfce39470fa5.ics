@@ -345,6 +345,36 @@ DESCRIPTION:Lab Notebook - Final assessment
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:8df2a8cf-bb72-4f93-83d3-edbffc3b4d6a@daily-assistant
+DTSTAMP:20260907T203309Z
+DTSTART;TZID=America/Chicago:20260920T190000
+DTEND;TZID=America/Chicago:20260920T193000
+SUMMARY:Competency: Scientific Writing  (BIOS 211 001 F26)
+SEQUENCE:0
+DESCRIPTION:Canvas: https://canvas.rice.edu/calendar?include_contexts=cours
+ e_91176&month=09&year=2026#assignment_526203
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Competency: Scientific Writing  (BIOS 211 001 F26)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b5e379-d7ea-45c3-aeb9-c904f6070158@daily-assistant
+DTSTAMP:20260907T203309Z
+DTSTART;TZID=America/Chicago:20260920T190000
+DTEND;TZID=America/Chicago:20260920T193000
+SUMMARY:Competency: Using Controls (BIOS 211 001 F26)
+SEQUENCE:0
+DESCRIPTION:Canvas: https://canvas.rice.edu/calendar?include_contexts=cours
+ e_91176&month=09&year=2026#assignment_526205
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Competency: Using Controls (BIOS 211 001 F26)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:24ad2059-6004-44b8-bf22-9b64c8bbabce-20260831@daily-assistant
 DTSTAMP:20260827T152004Z
 DTSTART;TZID=America/Chicago:20260831T210000
